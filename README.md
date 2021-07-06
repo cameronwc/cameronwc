@@ -1,6 +1,6 @@
 ### ✌️
 
-- 🔭 Senior Security Engineer [CVS Healh](https://cvshealth.com/), Owner [formulateddesign](https://formulated.design/) 
+- 🔭 Senior Security Engineer [CVS Health](https://cvshealth.com/), Owner [formulateddesign](https://formulated.design/) 
 - 🏗 Primarily Maintaining [Pixel Helper](https://www.pixelhelper.club/) 
 
 
